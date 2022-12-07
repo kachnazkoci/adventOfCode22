@@ -97,6 +97,8 @@ Your puzzle answer was 3979145.
 
 Both parts of this puzzle are complete! They provide two gold stars: **
 """
+#parsing and algorithmic (tree structure)
+
 import sys
 from collections import defaultdict
 infile = sys.argv[1] if len(sys.argv)>1 else '7.in'
